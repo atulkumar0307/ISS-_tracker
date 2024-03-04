@@ -3,8 +3,8 @@ from datetime import datetime
 import smtplib
 import time
 
-MY_MAIL = "aashuverma0307@gmail.com"
-MY_PASSWORD = "dqblanvzlhxibpil"
+MY_MAIL = "xyzgmail.com"    # add your mail.
+MY_PASSWORD = "XXXXXXXXXXXXXXX"    # add your own api-key
 
 MY_LATITUDE = 29.591097
 MY_LONGITUDE = 76.114601
